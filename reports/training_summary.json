@@ -1,0 +1,77 @@
+{
+  "dataset_rows": 50000,
+  "architecture": {
+    "intent": "customer_message",
+    "sentiment": "customer_message",
+    "escalation": "customer_message",
+    "resolution": "customer_message + agent_response"
+  },
+  "training_note": "The dataset is synthetic educational data. SGDClassifier with log-loss is used for scalable text classification on 50,000 rows. The separate unseen test set is the preferred generalization check.",
+  "models": [
+    {
+      "target": "intent",
+      "classes": [
+        "Delivery Delay",
+        "General Query",
+        "Login Problem",
+        "Order Cancellation",
+        "Order Tracking",
+        "Payment Issue",
+        "Product Complaint",
+        "Product Feedback",
+        "Refund Request",
+        "Technical Problem"
+      ],
+      "accuracy": 1.0,
+      "weighted_precision": 1.0,
+      "weighted_recall": 1.0,
+      "weighted_f1": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "target": "sentiment",
+      "classes": [
+        "Negative",
+        "Neutral",
+        "Positive"
+      ],
+      "accuracy": 1.0,
+      "weighted_precision": 1.0,
+      "weighted_recall": 1.0,
+      "weighted_f1": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "target": "escalation",
+      "classes": [
+        "No",
+        "Yes"
+      ],
+      "accuracy": 1.0,
+      "weighted_precision": 1.0,
+      "weighted_recall": 1.0,
+      "weighted_f1": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "target": "resolution",
+      "classes": [
+        "Resolved",
+        "Unresolved"
+      ],
+      "accuracy": 1.0,
+      "weighted_precision": 1.0,
+      "weighted_recall": 1.0,
+      "weighted_f1": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0
+    }
+  ]
+}

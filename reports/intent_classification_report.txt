@@ -1,0 +1,16 @@
+                    precision    recall  f1-score   support
+
+    Delivery Delay       1.00      1.00      1.00      1000
+     General Query       1.00      1.00      1.00      1000
+     Login Problem       1.00      1.00      1.00      1000
+Order Cancellation       1.00      1.00      1.00      1000
+    Order Tracking       1.00      1.00      1.00      1000
+     Payment Issue       1.00      1.00      1.00      1000
+ Product Complaint       1.00      1.00      1.00      1000
+  Product Feedback       1.00      1.00      1.00      1000
+    Refund Request       1.00      1.00      1.00      1000
+ Technical Problem       1.00      1.00      1.00      1000
+
+          accuracy                           1.00     10000
+         macro avg       1.00      1.00      1.00     10000
+      weighted avg       1.00      1.00      1.00     10000

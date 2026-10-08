@@ -1,0 +1,11 @@
+,Delivery Delay,General Query,Login Problem,Order Cancellation,Order Tracking,Payment Issue,Product Complaint,Product Feedback,Refund Request,Technical Problem
+Delivery Delay,3,0,0,0,0,0,0,0,0,0
+General Query,0,7,0,0,0,0,0,0,1,0
+Login Problem,0,0,4,0,0,0,0,0,0,0
+Order Cancellation,0,0,0,4,0,0,0,0,0,0
+Order Tracking,0,0,0,0,3,0,0,0,0,0
+Payment Issue,0,0,0,0,0,4,0,0,0,0
+Product Complaint,0,0,0,0,0,0,3,0,0,0
+Product Feedback,0,0,0,0,0,0,1,2,0,0
+Refund Request,0,0,0,1,0,0,0,0,4,0
+Technical Problem,0,0,0,0,0,0,0,0,0,4

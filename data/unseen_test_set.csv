@@ -1,0 +1,42 @@
+customer_message,language,intent,sentiment,resolution,escalation,agent_response,priority
+I paid for the cart but the confirmation screen never appeared.,English,Payment Issue,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"My bank account was charged, but the order still says unpaid.",English,Payment Issue,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"The transaction went through and everything is confirmed now, thanks.",English,Payment Issue,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+Mera payment successful hua tha lekin order place nahi hua.,Hinglish,Payment Issue,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+Payment methods kaun kaun se available hain?,Hinglish,General Query,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+I have been waiting for the reversed amount since last week.,English,Refund Request,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+Can you process the money back for my cancelled purchase?,English,Refund Request,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"Thanks, the reversed amount has finally reached my bank.",English,Refund Request,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+Cancelled order ka refund abhi tak account mein nahi aaya.,Hinglish,Refund Request,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+Refund policy kya hai for a returned item?,Hinglish,General Query,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"I have chased the refund three times and nobody has fixed it, please escalate this case.",English,Refund Request,Negative,Unresolved,Yes,We have escalated the case to the next support level for urgent review.,High
+Please stop this purchase before it gets shipped.,English,Order Cancellation,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"The cancellation went through successfully, thank you.",English,Order Cancellation,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+Mera order dispatch hone se pehle cancel karna hai.,Hindi,Order Cancellation,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+I asked to cancel twice but the order is still active. Escalate this.,English,Order Cancellation,Negative,Unresolved,Yes,We have escalated the case to the next support level for urgent review.,High
+Can you show me the current location of the parcel?,English,Order Tracking,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"Tracking link send kar do, mujhe parcel ka status dekhna hai.",Hinglish,Order Tracking,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"I can see the shipment status now, thanks.",English,Order Tracking,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+Yesterday was the promised delivery date and nothing arrived.,English,Delivery Delay,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"The delayed package finally arrived today, thanks.",English,Delivery Delay,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+What is the usual delivery window for Mumbai orders?,English,General Query,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+Meri delivery expected date se do din late hai.,Hindi,Delivery Delay,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"The password is correct, but the account still rejects my login.",English,Login Problem,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+Password reset ka OTP hi nahi aa raha.,Hinglish,Login Problem,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+I can access the account again. Thank you.,English,Login Problem,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+I have been locked out for days and already contacted support several times. Please escalate.,English,Login Problem,Negative,Unresolved,Yes,We have escalated the case to the next support level for urgent review.,High
+The checkout screen freezes every time I press continue.,English,Technical Problem,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+App baar baar crash ho rahi hai jab payment page open karta hoon.,Hinglish,Technical Problem,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"The app is working again after the update, thanks.",English,Technical Problem,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+The website is completely fine now.,English,Technical Problem,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+The box contained a different item from what I ordered.,English,Product Complaint,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+Product khula toh screen cracked mili.,Hinglish,Product Complaint,Negative,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+The replacement arrived and solved the product problem.,English,Product Complaint,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+The item is exactly as described and works perfectly.,English,Product Feedback,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+Mujhe product bahut pasand aaya aur quality excellent hai.,Hindi,Product Feedback,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+The product arrived in excellent condition and I am very happy with it.,English,Product Feedback,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
+Where can I see the different shipping options before checkout?,English,General Query,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+Mumbai mein delivery available hai kya?,Hindi,General Query,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+Can you explain how your return process works?,English,General Query,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+I just wanted some information about the service.,English,General Query,Neutral,Unresolved,No,We are still reviewing the request and will provide an update shortly.,Medium
+"Your support team answered my question, thank you.",English,General Query,Positive,Resolved,No,The request has been resolved successfully. Thank you for contacting support.,Low
